@@ -12,6 +12,6 @@ Console.Write("Для выхода из программы команда Exit.\
         string input = Console.ReadLine();
         if(!input.Equals("exit"))
             Console.WriteLine("{0}->{1}",input, input[1]);
-            Console.WriteLine("Вторая цифра этого числа "+ (input[1]))
+            Console.WriteLine("Вторая цифра этого числа " + (input[1]))
        ;
     }
