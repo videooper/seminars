@@ -7,11 +7,6 @@
 
 Console.Clear();
 Console.Write("Для выхода из программы команда Exit.\n или введите трёхзначное число: ");
- while(true)
-    {
-        string input = Console.ReadLine();
-        if(!input.Equals("exit"))
-            Console.WriteLine("{0}->{1}",input, input[1]);
-            Console.WriteLine("Вторая цифра этого числа " + (input[1]))
-       ;
-    }
+int threeDigitNumber = Convert.ToInt32(Console.ReadLine());
+string stringNumber = Convert.ToString(threeDigitNumber);
+Console.WriteLine("вторая цифра этого числа -> "+stringNumber[1]);
