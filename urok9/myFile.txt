@@ -1,0 +1,24 @@
+C:\Users\video\Desktop\seminar\urok9\myFile.txt
+01.09.2022 20:55:17
+01.09.2022 20:59:02
+01.09.2022 20:59:02
+0
+myFile.txt
+C:\Users\video\Desktop\seminar\urok9
+==========================================
+C:\Users\video\Desktop\seminar\urok9\Program.cs
+01.09.2022 20:32:13
+01.09.2022 20:56:50
+01.09.2022 20:56:50
+964
+Program.cs
+C:\Users\video\Desktop\seminar\urok9
+==========================================
+C:\Users\video\Desktop\seminar\urok9\urok9.csproj
+01.09.2022 20:32:13
+01.09.2022 20:32:13
+01.09.2022 20:32:13
+249
+urok9.csproj
+C:\Users\video\Desktop\seminar\urok9
+==========================================
